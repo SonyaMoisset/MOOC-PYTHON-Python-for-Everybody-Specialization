@@ -12,4 +12,4 @@ This Specialization builds on the success of the Python for Everybody course and
 ## Updates
 ### 12/02/2016
 - Enrolled in the program
-- Finished Week 1 | HTML & CSS in Course 1 | Programming for Everybody (Getting Started with Python)
+- Finished Week 1 | Chapter One - Why we Program? in Course 1 | Programming for Everybody (Getting Started with Python)
