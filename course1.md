@@ -8,3 +8,12 @@ This course aims to teach everyone the basics of programming computers using Pyt
 - Welcome
 - Lecture materials
 - Additional Materials
+
+#### Week 2
+##### Installing and Using Python
+- Installing Python - Overview
+- Recommended: Install Python - Windows 8
+- Recommended: Using Python - Macintosh
+- Recommended: Using Python on a Raspberry Pi
+- Recommended: Install Python - Windows Vista
+- Optional: Python Installation
