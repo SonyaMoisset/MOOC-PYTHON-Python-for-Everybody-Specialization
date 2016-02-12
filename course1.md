@@ -17,3 +17,12 @@ This course aims to teach everyone the basics of programming computers using Pyt
 - Recommended: Using Python on a Raspberry Pi
 - Recommended: Install Python - Windows Vista
 - Optional: Python Installation
+
+#### Week 3
+##### Chapter One: Why We Program (continued)
+- Lecture materials
+- Review: Chapter 1
+- Assignment: Chapter 1
+- Bonus: Chapter 1
+- Quiz: Chapter 1
+- Assignment: Write Hello World
