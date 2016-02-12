@@ -14,3 +14,4 @@ This Specialization builds on the success of the Python for Everybody course and
 - Enrolled in the program
 - Finished Week 1 | Chapter One - Why we Program? in Course 1 | Programming for Everybody (Getting Started with Python)
 - Finished Week 2 | Installing and Using Python in Course 1 | Programming for Everybody (Getting Started with Python)
+- Finished Week 3 | Chapter One: Why We Program (continued) in Course 1 | Programming for Everybody (Getting Started with Python)
