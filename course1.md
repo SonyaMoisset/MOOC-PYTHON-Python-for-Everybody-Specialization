@@ -26,3 +26,13 @@ This course aims to teach everyone the basics of programming computers using Pyt
 - Bonus: Chapter 1
 - Quiz: Chapter 1
 - Assignment: Write Hello World
+
+#### Week 4
+##### Chapter Two: Variables and Expressions
+- Lecture materials
+- Review: Chapter 2
+- Assignment: Chapter 2
+- Bonus: Chapter 2
+- Quiz: Chapter 2
+- Assignment 2.2
+- Assignment: 2.3
