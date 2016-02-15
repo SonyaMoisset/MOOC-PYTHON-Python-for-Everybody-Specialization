@@ -21,3 +21,5 @@ This Specialization builds on the success of the Python for Everybody course and
 
 ### 15/02/2016
 - Finished Week 5 | Chapter Three: Conditional Code in Course 1 | Programming for Everybody (Getting Started with Python)
+- Finished Week 6 | Chapter Four: Functions in Course 1 | Programming for Everybody (Getting Started with Python)
+- Finished Week 7 | Chapter Five: Loops and Iteration in Course 1 | Programming for Everybody (Getting Started with Python)
