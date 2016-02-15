@@ -36,3 +36,13 @@ This course aims to teach everyone the basics of programming computers using Pyt
 - Quiz: Chapter 2
 - Assignment 2.2
 - Assignment: 2.3
+
+#### Week 5
+##### Chapter Three: Conditional Code
+- Lecture materials
+- Review: Chapter 3
+- Assignment: Chapter 3
+- Bonus: Chapter 3
+- Quiz: Chapter 3
+- Assignment: 3.1
+- Assignment: 3.3
