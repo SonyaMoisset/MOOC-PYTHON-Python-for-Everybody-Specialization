@@ -18,3 +18,6 @@ This Specialization builds on the success of the Python for Everybody course and
 
 ### 13/02/2016
 - Finished Week 4 | Chapter Two: Variables and Expressions in Course 1 | Programming for Everybody (Getting Started with Python)
+
+### 15/02/2016
+- Finished Week 5 | Chapter Three: Conditional Code in Course 1 | Programming for Everybody (Getting Started with Python)
