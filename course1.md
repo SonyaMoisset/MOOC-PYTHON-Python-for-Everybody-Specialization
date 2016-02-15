@@ -46,3 +46,21 @@ This course aims to teach everyone the basics of programming computers using Pyt
 - Quiz: Chapter 3
 - Assignment: 3.1
 - Assignment: 3.3
+
+#### Week 6
+##### Chapter Four: Functions
+- Lecture materials
+- Review: Chapter 4
+- Assignment: Chapter 4
+- Bonus: Chapter 4
+- Quiz: Chapter 4
+- Assignment: 4.6
+
+#### Week 7
+##### Chapter Five: Loops and Iteration
+- Lecture materials
+- Review: Chapter 5
+- Chapter 5 Assignment
+- Bonus: Chapter 5
+- Quiz: Chapter 5
+- Assignment: 5.2
