@@ -14,3 +14,11 @@ This course will introduce the core data structures of the Python programming la
 - Additional materials
 - Quiz: Chapter 6 Quiz
 - Assignment 6.5
+
+#### Week 2
+##### Unit: Installing and Using Python
+- Installing Python - Overview
+- Recommended: Install Python - Windows 8
+- Recommended: Using Python - Macintosh
+- Recommended: Using Python - Linux / Raspberry Pi
+- Recommended: Optional Assignment
