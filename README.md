@@ -28,4 +28,7 @@ This Specialization builds on the success of the Python for Everybody course and
 - Finished Week 1 | Chapter Six: Strings in Course 2 | Python Data Structures
 
 ### 17/02/2016
-- Finished Week 1 | Installing and Using Python in Course 2 | Python Data Structures
+- Finished Week 2 | Installing and Using Python in Course 2 | Python Data Structures
+
+### 03/03/2016
+- Finished Week 3 | Chapter Seven: Files in Course 2 | Python Data Structures
