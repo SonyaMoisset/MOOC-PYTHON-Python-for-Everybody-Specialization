@@ -22,3 +22,13 @@ This course will introduce the core data structures of the Python programming la
 - Recommended: Using Python - Macintosh
 - Recommended: Using Python - Linux / Raspberry Pi
 - Recommended: Optional Assignment
+
+#### Week 3
+##### Chapter Seven: Files
+- Lecture Materials
+- Review: Chapter 7
+- Assignment: Chapter 7
+- Bonus: Chapter 7
+- Chapter 7 Quiz
+- Assignment 7.1
+- Assignment 7.2
