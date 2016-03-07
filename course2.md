@@ -42,3 +42,12 @@ This course will introduce the core data structures of the Python programming la
 - Quiz: Chapter 8 Quiz
 - Assignment 8.4
 - Assignment 8.5
+
+#### Week 5
+##### Chapter Nine: Dictionaries
+- Lecture Materials
+- Review: Chapter 9
+- Assignment: Chapter 9
+- Bonus: Chapter 9
+- Quiz: Chapter 9 Quiz
+- Assignment 9.4
