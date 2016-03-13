@@ -39,3 +39,4 @@ This Specialization builds on the success of the Python for Everybody course and
 
 ### 13/03/2016
 - Finished Week 5 | Chapter Ten: Tuples in Course 2 | Python Data Structures
+- Finished Week 1 | Getting Started in Course 3 | Using Python to Access Web Data
