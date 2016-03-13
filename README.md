@@ -36,3 +36,6 @@ This Specialization builds on the success of the Python for Everybody course and
 ### 07/03/2016
 - Finished Week 4 | Chapter Eight: Lists in Course 2 | Python Data Structures
 - Finished Week 5 | Chapter Nine: Dictionaries in Course 2 | Python Data Structures
+
+### 13/03/2016
+- Finished Week 5 | Chapter Ten: Tuples in Course 2 | Python Data Structures
